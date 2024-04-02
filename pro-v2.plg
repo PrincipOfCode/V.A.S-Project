@@ -1,0 +1,709 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\My App\Softs\Elect\Keil uVision 4 C51 v 9.02a Portable\ProJ\pro-v2.uvproj
+Project File Date:  01/06/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(19): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(24): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(29): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(34): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(39): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(49): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(54): error C129: missing ';' before 'speed'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(19): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(24): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(29): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(34): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(39): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(49): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(54): error C129: missing ';' before 'speed'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(19): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(24): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(29): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(34): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(39): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(49): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(54): error C129: missing ';' before 'speed'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(19): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(24): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(29): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(34): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(39): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(49): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(54): error C129: missing ';' before 'speed'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(24): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(29): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(34): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(39): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(49): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(54): error C129: missing ';' before 'speed'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(34): error C150: 'alert': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'alert': bit member in struct/union
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'alert': bit member in struct/union
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'alert': bit member in struct/union
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rfd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'lbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'rbd': bit member in struct/union
+.\HEADERS\DSTRUCTURE.H(49): error C150: 'alert': bit member in struct/union
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+Program Size: data=42.0 xdata=0 code=1044
+creating hex file from "pro-v2"...
+"pro-v2" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(35): error C200: left side of '->' requires struct/union pointer
+PROG.C(38): error C141: syntax error near '&', expected '<id>'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(62): error C141: syntax error near ':'
+PROG.C(35): error C199: left side of '->' requires struct/union pointer
+PROG.C(36): error C199: left side of '->' requires struct/union pointer
+PROG.C(38): error C199: left side of '->' requires struct/union pointer
+PROG.C(38): error C141: syntax error near '&', expected '<id>'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(36): error C200: left side of '->' requires struct/union pointer
+PROG.C(38): error C141: syntax error near '&', expected '<id>'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(38): error C141: syntax error near '&', expected '<id>'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(26): warning C280: 'key': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+Program Size: data=47.0 xdata=0 code=1044
+creating hex file from "pro-v2"...
+"pro-v2" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling Prog.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+Program Size: data=46.0 xdata=0 code=1057
+creating hex file from "pro-v2"...
+"pro-v2" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C244: 'settings': can't initialize, bad type or class
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): warning C280: 'settings': unreferenced local variable
+.\HEADERS\SPEEDOMETER.H(22): error C200: left side of '.' requires struct/union
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C244: 'settings': can't initialize, bad type or class
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C244: 'settings': can't initialize, bad type or class
+.\HEADERS\DSTRUCTURE.H(78): error C231: 'settings': redefinition
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(64): error C129: missing ';' before 'settings'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(64): error C141: syntax error near 'static'
+.\HEADERS\DSTRUCTURE.H(64): error C129: missing ';' before 'settings'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(64): error C129: missing ';' before 'settings'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '='
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(70): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(72): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(73): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near '}'
+.\HEADERS\DSTRUCTURE.H(74): error C141: syntax error near ','
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '{'
+.\HEADERS\DSTRUCTURE.H(76): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(71): error C231: 'settings': redefinition
+.\HEADERS\DSTRUCTURE.H(71): error C141: syntax error near '.'
+.\HEADERS\DSTRUCTURE.H(71): error C244: 'speed': can't initialize, bad type or class
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(64): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(64): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(71): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(71): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(72): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(72): error C204: 'speed': undefined member
+.\HEADERS\DSTRUCTURE.H(74): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(75): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(75): error C204: 'tank': undefined member
+.\HEADERS\DSTRUCTURE.H(77): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(77): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(78): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(78): error C204: 'temp': undefined member
+.\HEADERS\DSTRUCTURE.H(80): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(80): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(81): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(81): error C204: 'acc': undefined member
+.\HEADERS\DSTRUCTURE.H(83): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(83): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(84): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(84): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(85): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(85): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(86): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(86): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(87): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(87): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(88): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(88): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(89): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(89): error C204: 'doors': undefined member
+.\HEADERS\DSTRUCTURE.H(91): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(91): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(92): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(92): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(93): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(93): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(94): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(94): error C204: 'keys': undefined member
+.\HEADERS\DSTRUCTURE.H(95): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\DSTRUCTURE.H(95): error C204: 'keys': undefined member
+.\HEADERS\SPEEDOMETER.H(22): error C230: 'Settings': unknown struct/union/enum tag
+.\HEADERS\SPEEDOMETER.H(22): error C204: 'speed': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(32): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(32): error C204: 'keys': undefined member
+PROG.C(37): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(37): error C204: 'keys': undefined member
+PROG.C(38): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(38): error C204: 'keys': undefined member
+PROG.C(41): error C230: 'Settings': unknown struct/union/enum tag
+PROG.C(41): error C204: 'keys': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'Fuel_Gauge': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+.\HEADERS\DSTRUCTURE.H(74): error C204: 'fule': undefined member
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+Program Size: data=46.0 xdata=0 code=1114
+creating hex file from "pro-v2"...
+"pro-v2" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling Prog.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+Program Size: data=46.0 xdata=0 code=1114
+creating hex file from "pro-v2"...
+"pro-v2" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(34): error C193: '+': two pointers
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+PROG.C(34): error C193: '+': two pointers
+Target not created
+Build target 'Target 1'
+compiling Prog.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_ADC_CONVERSION?PROG
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?INIT_SETTINGS?PROG
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETSPEED?PROG
+Program Size: data=48.1 xdata=0 code=1102
+creating hex file from ".\HEX\pro-v2"...
+".\HEX\pro-v2" - 0 Error(s), 3 Warning(s).

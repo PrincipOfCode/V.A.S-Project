@@ -1,0 +1,4 @@
+".\HEX\Prog.obj" 
+TO ".\HEX\pro-v2" 
+PRINT(".\pro-v2.m51") RAMSIZE(256) 
+CODE( 0X0000-0XFFFF )
